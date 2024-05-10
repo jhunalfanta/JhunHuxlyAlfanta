@@ -28,4 +28,4 @@ I am Jhun Huxly Alfanta, a passionate coder with strong database management skil
 ## Contact Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jhun-huxly-alfanta-38b50b2a3/)
-- Email: jhunhuxly.medinaalfanta@gmail.com
+- Email: jhunalfanta@gmail.com
